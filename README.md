@@ -1,4 +1,4 @@
-# Wii Game Library Viewer
+# Wii Game Catalog
 
 The main objective of this website is to provide a clean, performant, and user-friendly way to browse and search through a large database of Nintendo Wii games. It pulls data from a structured XML source and visually displays cover art taken through GameTDB API.
 
