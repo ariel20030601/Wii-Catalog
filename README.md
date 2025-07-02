@@ -1,8 +1,8 @@
-#Wii Game Library Viewer
+# Wii Game Library Viewer
 
 The main objective of this website is to provide a clean, performant, and user-friendly way to browse and search through a large database of Nintendo Wii games. It pulls data from a structured XML source and visually displays cover art taken through GameTDB API.
 
-#Description
+# Description
 
 Wii Game Library Viewer is a web-based application that allows users to explore thousands of Wii games through an interactive grid layout. It reads data from a local wiitdb.xml file, parses it, and displays relevant game information including region, genres, publisher, and more. The cover art is taken using the GameTDB API and displayed in a card format.
 
@@ -11,7 +11,7 @@ Long descriptions (synopses) are automatically formatted into readable sections 
 
 The application was created as a way to learn and explore handling large structured datasets (like XML), utilizing an API to display data, optimize frontend performance, and create a UI that balances aesthetics and function. It served as a learning tool, especially for working with raw XML data and dynamic React-based interfaces.
 
-#Tools
+# Tools
 This application was developed using React and Tailwind CSS for the frontend, with JavaScript for logic and XML parsing. The XML is read client-side using fast-xml-parser, and all data is stored locally for now (no backend).
 Editor: Visual Studio Code
 
