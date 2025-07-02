@@ -15,7 +15,8 @@ The application was created as a way to learn and explore handling large structu
 This application was developed using React and Tailwind CSS for the frontend, with JavaScript for logic and XML parsing. The XML is read client-side using fast-xml-parser, and all data is stored locally for now (no backend).
 Editor: Visual Studio Code
 
-Visuals of the application
+# Visuals of the application
+
 ![React GIF](https://github.com/user-attachments/assets/abcd9b5b-ab79-4bdb-90de-12136bbe867f)
 # Images taken from the web application
 ![SS1](https://github.com/user-attachments/assets/9d99f06a-e7a0-45d8-aa27-61ceed636279)
